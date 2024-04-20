@@ -15,6 +15,7 @@ An Android application designed to simplify the process of ordering food for lun
 <img width="795" alt="Screenshot 2024-04-15 at 16 17 38" src="https://github.com/Hitendra27/LunchTray/assets/73651340/1fcf4a5f-1a0e-46bf-8bb2-18b69faaef3f">
  
 ## Screenshots
+![lunchTray](https://github.com/Hitendra27/LunchTray/assets/73651340/bd5712d4-fe27-421e-bdba-6e868bf20609)
 
 
 ## Getting Started
